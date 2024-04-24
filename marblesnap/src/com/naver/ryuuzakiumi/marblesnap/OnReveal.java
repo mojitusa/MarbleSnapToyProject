@@ -211,40 +211,6 @@ class OnReveal {
 				}
 				break;
 				
-			case "STAR LORD":
-				// 상대가 이번 턴 이 구역에 카드를 냈으면 효과 발현
-				
-				if (Play.playedField[0][fielSelection - 1] > 0 ) {
-					card
-					
-					
-				}
-
-					card.effectTriger = true;
-					card.effectedField[fielSelection - 1] = true;
-
-					// 모든 필드를 뒤져서 메두사를 찾아서 파워 + 3
-					Card cardReturn = new Card();
-					Medusa medusa = new Medusa("", 0, 0, 0, "", "", 0, 0);
-
-					cardReturn = Search.fieldSearch(p, "MEDUSA");
-
-					medusa = (Medusa) cardReturn;
-
-					//int medusaOriginalPower = medusa.power;
-					medusa.currentPower = medusa.power + medusa.addingPower;
-					
-					System.out.println("MEDUSA의 능력이 발동합니다. MEDUSA의 파워 + " + medusa.addingPower);
-					System.out.println();
-					System.out.println();
-					try {
-						Thread.sleep(2000);
-					} catch (InterruptedException e) {
-						e.printStackTrace();
-					}
-
-				}
-				break;
 
 			default:
 				break;
