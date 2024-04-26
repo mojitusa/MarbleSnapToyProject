@@ -1,4 +1,4 @@
-# MARVEL SNAP Toy Project 배현배
+# MARVEL SNAP Toy Project
 <br>
 <img alt="" src="https://github.com/mojitusa/MarvelSnapToyProject/blob/master/marblesnap/img/marble%20snap%20readme%20main%20.png">
 
