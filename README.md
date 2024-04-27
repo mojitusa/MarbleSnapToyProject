@@ -11,7 +11,7 @@
 
 <br>
 
-### 실행 파일 다운로드
+### 게임 실행 파일 다운로드
 <a href="https://blog.naver.com/ryuuzakiumi/223426826332" target="_blank">https://blog.naver.com/ryuuzakiumi/223426826332</a>
 
 <br>
